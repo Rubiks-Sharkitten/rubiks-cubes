@@ -45,6 +45,7 @@ p{
 h1,h2,h3{
 	font-family: 'Righteous', sans-serif;
 	text-decoration: underline; 
+	text-align: center;
 }
 
 footer{
